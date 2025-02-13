@@ -17,7 +17,7 @@ const Navbar = () => {
               <div className='size-9 rounded-lg bg-primary/10 flex items-center justify-center'>
               <img src='/logo.svg' className='w-5 h-5 text-primary' alt='logo' />
               </div>
-              <h1 className='text-lg font-bold'>ChatApp</h1>
+              <h1 className='text-lg font-bold'>Chit-Chat</h1>
             </Link>
           </div>
 
